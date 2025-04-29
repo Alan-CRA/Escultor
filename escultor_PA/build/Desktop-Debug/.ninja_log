@@ -1,0 +1,10 @@
+# ninja log v6
+4	361	7555622958572894	CMakeFiles/escultor_PA.dir/sculptor.cpp.obj	9ab715b8d5e629b7
+4	276	7555590085788314	CMakeFiles/escultor_PA.dir/main.cpp.obj	577b77d515056a9d
+361	539	7555622962155617	escultor_PA.exe	b2dcdbc7c97eb57b
+4	354	7555623283088635	CMakeFiles/escultor_PA.dir/sculptor.cpp.obj	9ab715b8d5e629b7
+354	515	7555623286591164	escultor_PA.exe	b2dcdbc7c97eb57b
+4	354	7555623788694098	CMakeFiles/escultor_PA.dir/sculptor.cpp.obj	9ab715b8d5e629b7
+355	512	7555623792194909	escultor_PA.exe	b2dcdbc7c97eb57b
+4	361	7555624225440600	CMakeFiles/escultor_PA.dir/sculptor.cpp.obj	9ab715b8d5e629b7
+362	528	7555624229019599	escultor_PA.exe	b2dcdbc7c97eb57b
